@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 #  -*- coding: utf-8 -*-
 # title           :ladi_vision.py
-# description     :This will create a header for a python script.
+# description     :extract and prints spanish language text in the image using Google Vision api
 # author          :Vivek Khetan
 # date            :12082017
 # version         :0.1

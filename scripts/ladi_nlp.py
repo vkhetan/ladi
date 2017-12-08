@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 #  -*- coding: utf-8 -*-
 # title           :ladi_vision.py
-# description     :This will create a header for a python script.
+# description     :extract and print  "person", "organization" and "location"  name  entity from provided text file
 # author          :Vivek Khetan
 # date            :12082017
 # version         :0.1
