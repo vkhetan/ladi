@@ -1,3 +1,18 @@
+#!/usr/bin/env python3
+# # -*- coding: utf-8 -*-
+#title           :ladi_vision.py
+#description     :This will create a header for a python script.
+#author          :Vivek Khetan
+#date            :12082017
+#version         :0.1
+#usage           :python ladi_nlp.py <path_to_text_file>
+#notes           : needs to have google language api activated
+#python_version  :3.6.3
+#==============================================================================
+
+
+
+# Import the modules needed to run the script.
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')

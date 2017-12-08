@@ -1,5 +1,5 @@
 
-### Latin American Digital Initiative Newspaper OCR\
+### Latin American Digital Initiative Newspaper OCR
 
 Our project uses Google\'92s Vision and Natural Language APIs to generate text transcriptions and name entity values for a Spanish language corpus from 19th century newspapers from the Latin American Digital Initiative (LADI) collection. The generated text values feed into an existing MODS-compliant metadata schema. 
 
