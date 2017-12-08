@@ -1,14 +1,14 @@
-#!/usr/bin/env python3
-# # -*- coding: utf-8 -*-
-#title           :ladi_vision.py
-#description     :This will create a header for a python script.
-#author          :Vivek Khetan
-#date            :12082017
-#version         :0.1
-#usage           :python ladi_vision.py <path_to_image_file>
-#notes           : needs to have google visoin api activated
-#python_version  :3.6.3
-#==============================================================================
+# !/usr/bin/env python3
+#  -*- coding: utf-8 -*-
+# title           :ladi_vision.py
+# description     :This will create a header for a python script.
+# author          :Vivek Khetan
+# date            :12082017
+# version         :0.1
+# usage           :python ladi_vision.py <path_to_image_file>
+# notes           : needs to have google visoin api activated
+# python_version  :3.6.3
+# ==============================================================================
 
 
 # Import the modules needed to run the script.
