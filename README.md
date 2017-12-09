@@ -4,6 +4,7 @@
 Our project uses Google's Vision and Natural Language APIs to generate text transcriptions and name entity values for a Spanish language corpus from 19th century newspapers from the Latin American Digital Initiative (LADI) collection. The generated text values feed into an existing MODS-compliant metadata schema. 
 
 ### Getting Started
+To reproduce this work, one needs to have workng knowledge of python and unix 
 
 - Sign in or create Google cloud account
 - set up a Linux Instance with `Ubuntu 16.04.3 LTS`
@@ -24,6 +25,13 @@ Prior to the OCR of the newspapers, news content were not searchable beyond item
 - We did all teh work in python3.6
 
 ### API Reference
+Following links can be helpful in setting up google cloud and activating its vision and nlp api
+- To set up google cloud
+	- https://cloud.google.com/dataproc/docs/guides/setup-project
+- To get vision api working
+	- https://cloud.google.com/vision/docs/quickstart
+- To get language api working
+	- https://cloud.google.com/natural-language/docs/getting-started 
 
 
 ### Tests
