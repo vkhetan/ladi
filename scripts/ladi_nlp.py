@@ -1,6 +1,6 @@
 # !/usr/bin/env python3
 #  -*- coding: utf-8 -*-
-# title           :ladi_vision.py
+# title           :ladi_nlp.py
 # description     :extract and print  "person", "organization" and "location"  name  entity from provided text file
 # author          :Vivek Khetan
 # date            :12082017
